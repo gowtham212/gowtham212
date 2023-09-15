@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **ROS**
 
-- 👯 I’m looking to collaborate on **ESP-IDF or ROS**
+- 👯 I’m looking to collaborate on ** Mobile Robotics**
 
-- 💬 Ask me about **Arduino**
+- 💬 Ask me about **Mobile Robotics**
 ----------------------
 
 
